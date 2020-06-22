@@ -1,7 +1,4 @@
-
-=======
 Pindakaas
->>>>>>> fa697292e934ec6488c37daa392849c48e82aa35
 1. 100 g Almond Flour
 
 3. 200 g Coconut Oil
