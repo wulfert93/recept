@@ -1,4 +1,4 @@
-.*
+Pindakaas
 1. 100 g Almond Flour
 
 3. 200 g Coconut Oil
