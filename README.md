@@ -1,3 +1,3 @@
 # recept
 
-Practice assignment for collaborative work on one file in gh
+In deze opdracht moesten wij samenwerken aan 1 file in Github
